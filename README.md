@@ -1,2 +1,13 @@
-# RiskyTravel-Portofolio
-Website landing page modern bertema travel &amp; liburan yang dirancang untuk menampilkan destinasi populer, paket liburan, dan testimoni pelanggan dengan tampilan clean, elegan, dan interaktif.  Desain responsif di semua perangkat (PC &amp; Mobile).  💡 Fokus pada UX/UI lembut, animasi halus, dan pengalaman pengguna profesional khas brand RiskyDev.
+# 🌍 RiskyTravel
+Landing Page Modern untuk Travel & Liburan — build by **RiskyDev**
+
+## 🎯 Fitur
+- Responsive Design (PC & Mobile)
+- Smooth Scroll & Animation
+- Paket & Destinasi Showcase
+- Form Kontak (Demo)
+- Clean Modern Layout
+
+> Dibangun sepenuhnya menggunakan HTML, CSS, dan JavaScript murni — tanpa framework, full frontend.
+
+🧠 **© 2025 RiskyTravel | Build by RiskyDev**
